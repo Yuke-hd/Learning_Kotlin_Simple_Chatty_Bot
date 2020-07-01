@@ -1,0 +1,1 @@
+fun main() = run { for (x in 0..9) println(x) }
